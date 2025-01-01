@@ -132,6 +132,14 @@ As cloud computing continues to drive the future of industries globally, securit
      This is the list of my skills and tools I am studying!
 -->
 
+<h2 align="center">🏆 Upcoming Project</h2>
+
+<div align="center">
+<h3 align="center">On its Way....</h3>
+</div>
+
+
+
 ### Main skills
 ### Full Stack Cloud-Native Development
 
@@ -150,11 +158,14 @@ As cloud computing continues to drive the future of industries globally, securit
 ### Cloud Computing & DevOps  
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,azure,gcp,aws,terraform)](https://skillicons.dev)
 
-### Networking  
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cisco.svg" width="45" style="margin-right: 10px"/>  
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/zoom.svg" width="45" style="margin-right: 10px"/>  
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/microsoftteams.svg" width="45" style="margin-right: 10px"/>  
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cloudflare.svg" width="45" style="margin-right: 10px"/>  
+**Networking**  
+<div style="display: flex; flex-direction: column;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cisco.svg" width="45" style="margin-bottom: 10px"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/zoom.svg" width="45" style="margin-bottom: 10px"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/microsoftteams.svg" width="45" style="margin-bottom: 10px"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cloudflare.svg" width="45" style="margin-bottom: 10px"/>
+</div>
+
 
 
 ### Exposure
