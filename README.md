@@ -143,22 +143,22 @@ As cloud computing continues to drive the future of industries globally, securit
 ### Main skills
 ### Full Stack Cloud-Native Development
 
-**Frontend**  
+#### Frontend
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
-**Backend**  
+#### Backend  
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) 
 <img src="./assets/fastapi-1.svg" width="45" style="margin-right: 10px"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/flask.svg" width="45" style="margin-right: 10px"/>
 
 
-**Database**  
+#### Database 
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
 
-**Cloud Computing & DevOps**
+#### Cloud Computing & DevOps
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,azure,gcp,aws,terraform)](https://skillicons.dev)
 
-**Networking**  
+#### Networking  
 <div style="display: flex; flex-direction: column;">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cisco.svg" width="45" style="margin-bottom: 10px"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/zoom.svg" width="45" style="margin-bottom: 10px"/>
