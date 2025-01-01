@@ -207,7 +207,7 @@ February 2020 – December 2021
 ### Connect with me!
 <div>
     <a href="https://www.linkedin.com/in/akhiljose22/">
-        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35" style="filter: invert(27%) sepia(97%) saturate(6447%) hue-rotate(181deg) brightness(91%) contrast(89%);" />
+        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35" />
     </a>
   </div>
 
