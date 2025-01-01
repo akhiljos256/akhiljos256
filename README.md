@@ -84,7 +84,7 @@ As cloud computing continues to drive the future of industries globally, securit
 <img src="https://github-readme-stats.vercel.app/api?username=akhiljos256&hide_border=true&border_radius=15&show_icons=true&theme=light&hide_border=true" alt="Akhil's GitHub stats">
 </div>
 
-### Top Repositories
+<h3 align="center">Top Repositories</h3>
 <div align="center">
   <table>
     <tr>
@@ -122,7 +122,7 @@ As cloud computing continues to drive the future of industries globally, securit
 </div>
 
 
-### GitHub Contribution Chart
+<h3 align="center">Github Contribution Chart</h3>
 <div align="center">
 <a href="https://github.com/akhiljos256">
     <img src="https://ghchart.rshah.org/akhiljos256" alt="Akhil's GitHub Contribution Chart">
