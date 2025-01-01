@@ -45,11 +45,68 @@
 
 <h2 align="center">🧭 My Mission</h2>
 
-Focused on advancing in DevOps engineering and cloud security, with a particular emphasis on safeguarding sensitive systems like those in banking, I aim to address the increasing risks in cloud environments. By leveraging full-stack development and AI, I am building innovative solutions, including a credit card monitoring system, to enhance security and deliver impactful, scalable results in the tech industry.
+Focused on advancing in DevOps engineering and cloud security, with a particular emphasis on safeguarding sensitive systems like those in banking, I aim to address the increasing risks in cloud environments. By leveraging full-stack Cloud native development and AI, I am building innovative solutions, including a credit card monitoring system, to enhance security and deliver impactful, scalable results in the tech industry.
+
+<!--
+     MY VISION
+-->
 
 <h2 align="center">👁️ My Apogee</h2>
 
 As cloud computing continues to drive the future of industries globally, security remains a critical concern due to inherent vulnerabilities. I am committed to advancing the field by developing robust, secure, and reliable cloud solutions. Through the integration of AI-driven automation, I aim to create systems capable of autonomously identifying and mitigating security flaws, ensuring a resilient and secure cloud infrastructure that meets the evolving demands of modern businesses.
+
+
+<h2 align="center">🌟 My GitHub Profile</h2>
+
+<h3 align="center">Git Stats</h3>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=akhiljos256&theme=light&hide_border=true" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhiljos256&custom_title=Akhil's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=FFFFFF&color=000000&line=1E90FF&point=1E90FF&area_color=FFFFFF&title_color=000000&area=true" alt="GitHub Activity Graph" />
+</div>
+
+### Top Repositories
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/akhiljos256/bestbuy_staff_service">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=akhiljos256&repo=bestbuy_staff_service&theme=light&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/akhiljos256/store-front-l8">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=akhiljos256&repo=store-front-l8&theme=light&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/akhiljos256/store-admin-L8">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=akhiljos256&repo=store-admin-L8&theme=light&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/akhiljos256/akhiljos256">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=akhiljos256&repo=akhiljos256&theme=light&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/akhiljos256/RealTimeIotAzure">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=akhiljos256&repo=RealTimeIotAzure&theme=light&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### GitHub Contribution Chart
+<a href="https://github.com/akhiljos256">
+    <img src="https://ghchart.rshah.org/akhiljos256" alt="Akhil's GitHub Contribution Chart">
+</a>
 
 <!--
      This is the list of my skills and tools I am studying!
