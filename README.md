@@ -176,6 +176,7 @@ As cloud computing continues to drive the future of industries globally, securit
 ### Unified Communication Engineer
 <img src="./assets/seagate-seeklogo.svg" width="45" align="left" style="margin-right: 10px" />
 <strong>Seagate Technology, Bayan Lepas, Penang, Malaysia</strong>
+
 January 2022 – September 2023
 
 *	Spearheaded a migration project to transition Seagate's network infrastructure from Cisco systems to Zoom Cloud Infrastructure, enhancing communication capabilities.
@@ -184,8 +185,9 @@ January 2022 – September 2023
 *	Conducted training sessions for staff on the new communication tools, resulting in a 30% increase in user adoption within the first month.
 
 ### Cisco Analyst
-<img src="./assets/cico.svg" width="45" align="left" style="margin-right: 10px" />
+<img src="./assets/cisco.svg" width="45" align="left" style="margin-right: 10px" />
 <strong>Cisco Systems, Noida, New Delhi, India</strong>
+
 February 2020 – December 2021
 
 *	Managed the network infrastructure for Bank of America, ensuring optimal performance and security of enterprise communication systems.
