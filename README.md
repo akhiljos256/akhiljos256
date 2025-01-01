@@ -12,15 +12,7 @@
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=000000&width=435&lines=Hello%2C+it's+Akhil+Jose;Cloud+Engineer;Network+Engineer;Devops+Engineer" alt="Business Analyst"/>
 </a>
-<!--
-    Your own Terminal GIF can be created here -> https://www.terminalgif.com
--->
 
-
-
-<!--
-     My mission, because I'm a superhero!
--->
 
 
 <a href="https://bento.me/akhiljose">
@@ -31,7 +23,9 @@
     />
 </a>
 
-
+<!--
+    ABOUT MYSELF
+-->
 
 <h2 align="center">⚡ About Me</h2>
 
@@ -45,7 +39,17 @@
 
 ⚙️ **Visionary Problem-Solver**: Equipped with a practical understanding of Agile practices and a commitment to long-term impact, I am dedicated to advancing cloud computing and AI technologies. My work is focused on shaping the future of secure, connected ecosystems that deliver efficiency and innovation.  
 
+<!--
+     MY MISSION
+-->
 
+<h2 align="center">🧭 My Mission</h2>
+
+Focused on advancing in DevOps engineering and cloud security, with a particular emphasis on safeguarding sensitive systems like those in banking, I aim to address the increasing risks in cloud environments. By leveraging full-stack development and AI, I am building innovative solutions, including a credit card monitoring system, to enhance security and deliver impactful, scalable results in the tech industry.
+
+<h2 align="center">👁️ My Apogee</h2>
+
+As cloud computing continues to drive the future of industries globally, security remains a critical concern due to inherent vulnerabilities. I am committed to advancing the field by developing robust, secure, and reliable cloud solutions. Through the integration of AI-driven automation, I aim to create systems capable of autonomously identifying and mitigating security flaws, ensuring a resilient and secure cloud infrastructure that meets the evolving demands of modern businesses.
 
 <!--
      This is the list of my skills and tools I am studying!
