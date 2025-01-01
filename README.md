@@ -174,10 +174,11 @@ As cloud computing continues to drive the future of industries globally, securit
 <h2 align="center">🧑‍💼 Professional Experience</h2>
 
 ### Unified Communication Engineer
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; justify-content: flex-start;">
   <img src="./assets/seagate-seeklogo.svg" width="45" style="margin-right: 10px"/>
-  <p style="margin: 0;"><strong>Seagate Technology, Bayan Lepas, Penang, Malaysia</strong></p>
+  <p style="margin: 0; font-weight: bold;">Seagate Technology, Bayan Lepas, Penang, Malaysia</p>
 </div>
+
 January 2022 – September 2023
 
 *	Spearheaded a migration project to transition Seagate's network infrastructure from Cisco systems to Zoom Cloud Infrastructure, enhancing communication capabilities.
