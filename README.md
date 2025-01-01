@@ -7,12 +7,11 @@
     You may also want to connect with me on LinkedIn @akhiljose22
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=000000&width=435&lines=Hello%2C+it's+Akhil+Jose;Cloud Engineer;Network Engineer;Devops Engineer" alt="Cloud Engineer"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Daria+Stanilevici;Business+Analyst" alt="Business Analyst"/>
 </a>
-
 <!--
     Your own Terminal GIF can be created here -> https://www.terminalgif.com
 -->
@@ -34,17 +33,17 @@
 
 
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center">⚡ About Me</h2>
 
-🚀 **Result-Oriented Professional**: With expertise in Azure, DevOps practices, and AI frameworks like PyTorch and TensorFlow, I specialize in designing secure, scalable solutions that meet industry standards and address real-world challenges. My professional journey includes managing Bank of America’s network infrastructure as a Network Analyst for Cisco and leading the migration of Cisco enterprise systems to Zoom at Seagate Malaysia.  
+🧑‍💻 **Result-Oriented Professional**: With expertise in Azure, DevOps practices, and AI frameworks like PyTorch, I specialize in designing secure, scalable solutions that meet industry standards and address real-world challenges. My professional journey includes managing Bank of America’s network infrastructure as a Network Analyst for Cisco and leading the migration of Cisco enterprise systems to Zoom at Seagate Malaysia.  
 
-🌱 **Lifelong Learner**: Proficient in Python, SQL, React, and networking technologies, I constantly evolve by exploring emerging trends in cloud computing, security, and AI. Certified in CCNA and ITIL, I have recently completed a Cybersecurity program and am now focusing on integrating cloud security into scalable enterprise solutions.  
+🎓 **Lifelong Learner**: Proficient in Python, SQL, Vue, and networking technologies, I constantly evolve by exploring emerging trends in cloud computing, security, and AI. Certified in CCNA and ITIL, I have recently completed a Cybersecurity program and am now focusing on integrating cloud security into scalable enterprise solutions.  
 
-🤝 **Collaborative Leader**: As a Team Lead at Seagate, I motivated and guided my team to successfully complete the complex migration from Cisco infrastructure to Zoom. Additionally, I was recognized for outstanding leadership during my Cybersecurity program, particularly while leading a capstone project focused on resolving eCommerce payment issues. These experiences underscore my ability to inspire teams and deliver impactful results.  
+🎯 **Collaborative Leader**: As a Team Lead at Seagate, I motivated and guided my team to successfully complete the complex migration from Cisco infrastructure to Zoom. Additionally, I was recognized for outstanding leadership during my Cybersecurity program, particularly while leading a capstone project focused on resolving eCommerce payment issues. These experiences underscore my ability to inspire teams and deliver impactful results.  
 
-🔍 **Driven Innovator**: Immersed in the world of cloud computing, I am committed to merging networking expertise with machine learning technologies to develop transformative solutions. My passion for leveraging data and cloud architecture drives me to create secure, scalable applications that address real-world challenges.  
+🧠 **Driven Innovator**: Immersed in the world of cloud development, I am committed to merging networking expertise with machine learning technologies to develop transformative solutions. My passion for leveraging data and cloud architecture drives me to create secure, scalable applications that address real-world challenges.  
 
-💡 **Visionary Problem-Solver**: Equipped with a practical understanding of Agile practices and a commitment to long-term impact, I am dedicated to advancing cloud computing and AI technologies. My work is focused on shaping the future of secure, connected ecosystems that deliver efficiency and innovation.  
+⚙️ **Visionary Problem-Solver**: Equipped with a practical understanding of Agile practices and a commitment to long-term impact, I am dedicated to advancing cloud computing and AI technologies. My work is focused on shaping the future of secure, connected ecosystems that deliver efficiency and innovation.  
 
 
 
