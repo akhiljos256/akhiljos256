@@ -155,7 +155,7 @@ As cloud computing continues to drive the future of industries globally, securit
 **Database**  
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
 
-### Cloud Computing & DevOps  
+**Cloud Computing & DevOps**
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,azure,gcp,aws,terraform)](https://skillicons.dev)
 
 **Networking**  
