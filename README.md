@@ -205,11 +205,7 @@ February 2020 – December 2021
 -->
 
 ### Connect with me!
-<div>
-    <a href="https://www.linkedin.com/in/akhiljose22/">
-        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35" />
-    </a>
-  </div>
+
 
 <div>
     <a href="https://www.linkedin.com/in/akhiljose22/">
@@ -235,7 +231,7 @@ February 2020 – December 2021
 > [!IMPORTANT]  
 > <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" alt="footer"/>
 
 <!--
      Thanks for being my guest <3
