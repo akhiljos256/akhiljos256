@@ -61,9 +61,9 @@ As cloud computing continues to drive the future of industries globally, securit
 <h3 align="center">Git Stats</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=akhiljos256&theme=light&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=akhiljos256&theme=light&hide_border=true" alt="GitHub Streak"/>
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhiljos256&custom_title=Akhil's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=FFFFFF&color=000000&line=1E90FF&point=1E90FF&area_color=FFFFFF&title_color=000000&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhiljos256&custom_title=Akhil's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=FFFFFF&color=000000&line=1E90FF&point=1E90FF&area_color=FFFFFF&title_color=000000&area=true" alt="GitHub Activity Graph"/>
 </div>
 
 <br>
