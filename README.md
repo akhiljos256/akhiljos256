@@ -213,7 +213,7 @@ February 2020 – December 2021
 
 <div>
     <a href="https://www.linkedin.com/in/akhiljose22/">
-        <img src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin" alt="LinkedIn" width="35" height="35" />
+        <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="LinkedIn" width="35" height="35" />
     </a>
 </div>
 
