@@ -186,6 +186,13 @@ As cloud computing continues to drive the future of industries globally, securit
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td><img src="./assets/seagate-seeklogo.svg" width="45" /></td>
+    <td><strong>Seagate Technology, Bayan Lepas, Penang, Malaysia</strong></td>
+  </tr>
+</table>
+
 
 January 2022 – September 2023
 
