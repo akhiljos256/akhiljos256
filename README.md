@@ -121,11 +121,13 @@ As cloud computing continues to drive the future of industries globally, securit
   </table>
 </div>
 
+
 ### GitHub Contribution Chart
+<div align="center">
 <a href="https://github.com/akhiljos256">
     <img src="https://ghchart.rshah.org/akhiljos256" alt="Akhil's GitHub Contribution Chart">
 </a>
-
+</div>
 <!--
      This is the list of my skills and tools I am studying!
 -->
