@@ -212,6 +212,13 @@ February 2020 – December 2021
   </div>
 
 <div>
+    <a href="https://www.linkedin.com/in/akhiljose22/">
+        <img src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin" alt="LinkedIn" width="35" height="35" />
+    </a>
+</div>
+
+
+<div>
     <a href="mailto:akhiljos256@gmail.com">
         <img src="https://img.icons8.com/color/96/000000/gmail--v1.png" alt="Email" width="35" height="35">
     </a>
