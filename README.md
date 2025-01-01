@@ -66,6 +66,24 @@ As cloud computing continues to drive the future of industries globally, securit
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhiljos256&custom_title=Akhil's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=FFFFFF&color=000000&line=1E90FF&point=1E90FF&area_color=FFFFFF&title_color=000000&area=true" alt="GitHub Activity Graph" />
 </div>
 
+<br>
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhiljos256&hide=html&hide_border=true&layout=compact&langs_count=8&theme=light&hide_border=true" alt="Top Languages">
+    </td>
+    <td>
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akhiljos256&theme=default&hide_border=true" alt="Most Commit Language">
+    </td>
+  </tr>
+</table>
+
+</div>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=akhiljos256&hide_border=true&border_radius=15&show_icons=true&theme=light&hide_border=true" alt="Akhil's GitHub stats">
+</div>
+
 ### Top Repositories
 <div align="center">
   <table>
