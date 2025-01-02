@@ -61,7 +61,7 @@ As cloud computing continues to drive the future of industries globally, securit
 <h3 align="center">Git Stats</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=akhiljos256&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=akhiljos256&theme=light&hide_border=true" alt="GitHub Streak" />
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhiljos256&custom_title=Akhil's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=FFFFFF&color=000000&line=1E90FF&point=1E90FF&area_color=FFFFFF&title_color=000000&area=true" alt="GitHub Activity Graph"/>
 </div>
@@ -229,7 +229,7 @@ February 2020 – December 2021
 
 ### Employer?
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a>
+> <a href="https://drive.google.com/file/d/1wWxKqB9mx5rPk2_fjyYNsmZqep3bWXGj/view?usp=sharing" download>Download my resume</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" alt="footer"/>
 
