@@ -62,6 +62,10 @@ As cloud computing continues to drive the future of industries globally, securit
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=akhiljos256&theme=light&hide_border=true" alt="GitHub Streak" />
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akhiljos256&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
+</p>
+
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhiljos256&custom_title=Akhil's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=FFFFFF&color=000000&line=1E90FF&point=1E90FF&area_color=FFFFFF&title_color=000000&area=true" alt="GitHub Activity Graph"/>
 </div>
@@ -83,6 +87,7 @@ As cloud computing continues to drive the future of industries globally, securit
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=akhiljos256&hide_border=true&border_radius=15&show_icons=true&theme=light&hide_border=true" alt="Akhil's GitHub stats">
 </div>
+
 
 <h3 align="center">Top Repositories</h3>
 <div align="center">
