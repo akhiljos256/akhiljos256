@@ -18,10 +18,11 @@
 <a href="https://bento.me/akhiljose">
     <img 
         width="110%" 
-        src="https://cardivo.vercel.app/api?name=Akhil%20Jose&description=Cloud%20Development%20and%20Operations%20student%20at%20Algonquin%20College%20(Class%20of%20'25),%20I%20am%20passionate%20about%20merging%20the%20power%20of%20cloud%20computing%20with%20networking%20and%20cybersecurity%20to%20create%20secure,%20scalable%20solutions.%20My%20journey%20began%20as%20a%20Network%20Engineer,%20where%20I%20served%20as%20a%20Network%20Analyst%20for%20Cisco,%20managing%20Bank%20of%20America's%20infrastructure.%20Later,%20I%20contributed%20as%20a%20Unified%20Communication%20Engineer%20at%20Seagate%20Technology,%20gaining%20invaluable%20experience%20in%20enterprise%20systems.%20Currently,%20I%20am%20exploring%20cloud%20technologies,%20with%20a%20focus%20on%20integrating%20cybersecurity%20into%20cloud%20environments.%20I%20am%20also%20honing%20my%20DevOps%20and%20cloud%20architecture%20expertise,%20working%20with%20cutting-edge%20technologies%20to%20deliver%20transformative%20results.&image=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Dview%26id%3D1OGb0MGPiEGF4ofdz88OsA-HhbsW29N2C&backgroundColor=%23ecf0f1&colorPattern=%23" 
+        src="https://cardivo.vercel.app/api?name=Akhil%20Jose&description=Cloud%20Development%20and%20Operations%20student%20at%20Algonquin%20College%20(Class%20of%20'25),%20I%20am%20passionate%20about%20merging%20the%20power%20of%20cloud%20computing%20with%20networking%20and%20cybersecurity%20to%20create%20secure,%20scalable%20solutions.%20My%20journey%20began%20as%20a%20Network%20Engineer,%20where%20I%20served%20as%20a%20Network%20Analyst%20for%20Cisco,%20managing%20Bank%20of%20America's%20infrastructure.%20Later,%20I%20contributed%20as%20a%20Unified%20Communication%20Engineer%20at%20Seagate%20Technology,%20gaining%20invaluable%20experience%20in%20enterprise%20systems.%20Currently,%20I%20am%20exploring%20cloud%20technologies,%20with%20a%20focus%20on%20integrating%20cybersecurity%20into%20cloud%20environments.%20I%20am%20also%20honing%20my%20DevOps%20and%20cloud%20architecture%20expertise,%20working%20with%20cutting-edge%20technologies%20to%20deliver%20transformative%20results.&image=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Dview%26id%3D1C1_E73lgE0h5m4NkXDFYZhqSkxvPfGs1&backgroundColor=%23ecf0f1&colorPattern=%23" 
         alt="Akhil Jose's Card" 
     />
 </a>
+
 
 <!--
     ABOUT MYSELF
