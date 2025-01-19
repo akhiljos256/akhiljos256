@@ -183,7 +183,7 @@ As cloud computing continues to drive the future of industries globally, securit
 <img src="./assets/seagate-seeklogo.svg" width="45" align="left" style="margin-right: 10px" />
 <strong>Seagate Technology, Bayan Lepas, Penang, Malaysia</strong>
 
-January 2022 – September 2023
+##### January 2022 – September 2023
 
 *	Spearheaded a migration project to transition Seagate's network infrastructure from Cisco systems to Zoom Cloud Infrastructure, enhancing communication capabilities.
 *	Collaborated with cross-functional teams to support the implementation of the Zoom Cloud Telecommunication System, improving system reliability by 25%.
@@ -194,7 +194,7 @@ January 2022 – September 2023
 <img src="./assets/cisco.svg" width="45" align="left" style="margin-right: 10px" />
 <strong>Cisco Systems, Noida, New Delhi, India</strong>
 
-February 2020 – December 2021
+##### February 2020 – December 2021
 
 *	Managed the network infrastructure for Bank of America, ensuring optimal performance and security of enterprise communication systems.
 *	Supported CUCM and Webex cloud services, improving communication efficiency by reducing latency issues by 20%.
