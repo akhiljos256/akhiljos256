@@ -186,7 +186,7 @@ As cloud computing continues to drive the future of industries globally, securit
 ##### January 2022 – September 2023
 
 *	Spearheaded a migration project to transition Seagate's network infrastructure from Cisco systems to Zoom Cloud Infrastructure, enhancing communication capabilities.
-*	Collaborated with cross-functional teams to support the implementation of the Zoom Cloud Telecommunication System, improving system reliability by 25%.
+*	Collaborated with cross-functional teams to support the implementation of the Zoom Cloud Telecommunication System, improving system reliability.
 *	Provided technical support and troubleshooting for Zoom services, resolving issues promptly to minimize downtime and improve user satisfaction.
 *	Conducted training sessions for staff on the new communication tools, resulting in a 30% increase in user adoption within the first month.
 
@@ -196,10 +196,10 @@ As cloud computing continues to drive the future of industries globally, securit
 
 ##### February 2020 – December 2021
 
-*	Managed the network infrastructure for Bank of America, ensuring optimal performance and security of enterprise communication systems.
-*	Supported CUCM and Webex cloud services, improving communication efficiency by reducing latency issues by 20%.
-*	Developed and implemented monitoring tools to track network performance, leading to a 15% reduction in incident response time.
-*	Collaborated with the engineering team to identify and resolve complex technical issues, contributing to a 40% improvement in service-level agreements (SLAs).
+* Managed the network infrastructure for Bank of America, ensuring optimal performance and security of enterprise communication systems.
+* Supported CUCM and Webex cloud services, enhancing communication efficiency by resolving latency issues.
+* Experienced with monitoring tools like CMSP and Splunk for tracking network performance, and ticketing tools such as Remedy  and ServiceNow (SNOW) for issue management.
+* Collaborated with the engineering team to identify and resolve complex technical issues, improving service-level agreements (SLAs).
 
 ### CERTIFICATIONS
 
