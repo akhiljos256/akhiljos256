@@ -188,7 +188,7 @@ As cloud computing continues to drive the future of industries globally, securit
 *	Spearheaded a migration project to transition Seagate's network infrastructure from Cisco systems to Zoom Cloud Infrastructure, enhancing communication capabilities.
 *	Collaborated with cross-functional teams to support the implementation of the Zoom Cloud Telecommunication System, improving system reliability.
 *	Provided technical support and troubleshooting for Zoom services, resolving issues promptly to minimize downtime and improve user satisfaction.
-*	Conducted training sessions for staff on the new communication tools, resulting in a 30% increase in user adoption within the first month.
+*	Conducted training sessions for staff on new communication tools, ensuring successful adoption and smooth operation without any obstacles.
 
 ### Cisco Analyst
 <img src="./assets/cisco.svg" width="45" align="left" style="margin-right: 10px" />
