@@ -235,7 +235,7 @@ As cloud computing continues to drive the future of industries globally, securit
 
 ### Employer?
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/file/d/1wWxKqB9mx5rPk2_fjyYNsmZqep3bWXGj/view?usp=sharing" download>Download my resume</a>
+> <a href="https://drive.google.com/file/d/1wyMfegKUH91xNES_AUIzZgmL7--XPHtx/view?usp=sharing" download>Download my resume</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" alt="footer"/>
 
